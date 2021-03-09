@@ -1,0 +1,29 @@
+﻿
+
+body {
+    padding-top: 56px;
+}
+
+.hola{
+    text-align:center;
+}
+
+.total{
+    color:blueviolet;
+    font-size:larger;
+    font-weight:600;
+}
+
+.eliminart{
+    color:crimson;
+}
+
+.titulin{
+    font-size:20px;
+    color:cyan;
+}
+
+#foto1{
+    position:absolute;
+    width:10px;
+}

@@ -1,0 +1,42 @@
+create database tpc_baires
+go
+use tpc_baires
+
+create table Articulos(
+Id int identity(1,1),
+Nombre varchar(30) not null,
+Precio_prod decimal(5,0) not null,
+Precio_venta decimal(5,0) not null,
+Categoria varchar(20) not null,
+Tamano varchar(20) not null,
+Descripcion varchar(100) not null,
+foto varchar(300) not null,
+Estado bit default 1,
+primary key (id)
+)
+go
+create table clientes(
+DNI int not null,
+Nombre varchar(50) not null,
+Apellido varchar(50) not null,
+Email varchar(50) not null unique,
+Direccion varchar(50) not null,
+Ciudad varchar(30) not null,
+CP varchar(10) not null,
+Contrasena varchar(20) not null,
+Primary key (dni)
+)
+go
+create table Ventas(
+id int identity(1,1),
+dni int not null foreign key references clientes (dni),
+total decimal not null,
+primary key (id)
+)
+go
+create table fotos_x_art(
+idfoto int identity(1,1),
+idart int not null foreign key references Articulos(id),
+foto varchar(300) not null,
+primary key (idart,idfoto)
+)

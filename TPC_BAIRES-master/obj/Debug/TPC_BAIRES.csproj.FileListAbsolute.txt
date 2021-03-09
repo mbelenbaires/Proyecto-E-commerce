@@ -1,0 +1,702 @@
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csc.exe
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csc.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csc.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csi.exe
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csi.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\csi.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Console.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\vbc.exe
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\vbc.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\System.Web.Optimization.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\WebGrease.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\System.Web.Optimization.xml
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC_BAIRES\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC_BAIRES\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Chico\Desktop\TPC_BAIRES\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC_BAIRES\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csc.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csc.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csc.rsp
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csi.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csi.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\csi.rsp
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Console.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\vbc.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\vbc.rsp
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\System.Web.Optimization.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\WebGrease.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\System.Web.Optimization.xml
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Negocio.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Negocio.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\Negocio.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\bin\DOMINIO.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\DOMINIO.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\TPC_BAIRES.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csc.rsp
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\csi.rsp
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.AppContext.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Console.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Compression.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Claims.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.ValueTuple.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\vbc.rsp
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\WebGrease.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\DOMINIO.dll.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Negocio.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\System.Web.Optimization.xml
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Newtonsoft.Json.xml
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Antlr3.Runtime.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.csproj.CopyComplete
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\obj\Debug\TPC_BAIRES.pdb

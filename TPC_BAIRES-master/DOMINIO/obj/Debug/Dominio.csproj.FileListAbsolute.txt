@@ -1,0 +1,70 @@
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\bin\Debug\DOMINIO.exe.config
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\bin\Debug\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC\TPC_BAIRES\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.exe.config
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.Cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.Properties.Resources.resources
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\DOMINIO\obj\Debug\DOMINIO.pdb

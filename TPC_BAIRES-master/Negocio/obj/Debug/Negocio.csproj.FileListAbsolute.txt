@@ -1,0 +1,74 @@
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\Negocio.exe
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\DOMINIO.exe
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\TPC\Negocio\bin\Debug\DOMINIO.exe.config
+C:\Users\Chico\Desktop\TPC\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\TPC\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\TPC\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Chico\Desktop\TPC\Negocio\obj\Debug\Negocio.exe
+C:\Users\Chico\Desktop\TPC\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\Administrador\Desktop\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\Chico\Desktop\en clase\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\Chico\Desktop\en clase - copia (2)\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Administrador\Downloads\TPC-Baires-master\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\Chico\Downloads\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\Negocio.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.pdb
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\bin\Debug\DOMINIO.dll.config
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.exe
+C:\Users\marti\Desktop\TPC-Baires-master\TPC_BAIRES-master\Negocio\obj\Debug\Negocio.pdb
